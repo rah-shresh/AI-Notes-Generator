@@ -235,5 +235,5 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 ## 👤 Author
 
 **AI Notes Generator Team**
-- GitHub: [@your-username](https://github.com/your-username)
-- Project Link: [https://github.com/your-username/ai-notes-generator](https://github.com/your-username/ai-notes-generator)
+- GitHub: [@rah-shresh](https://github.com/rah-shresh)
+- Project Link: [AI-Notes-Generator](https://github.com/rah-shresh/AI-Notes-Generator)
